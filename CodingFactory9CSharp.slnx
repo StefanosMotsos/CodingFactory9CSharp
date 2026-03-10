@@ -1,8 +1,10 @@
 <Solution>
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="IfCases/IfCases.csproj" Id="77224a61-2b8d-4a38-9039-d2e46a23fe68" />
   <Project Path="KilometersApp/KilometersApp.csproj" Id="a1ebef17-4458-47ee-a71c-f079dc9a8ccd" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
   <Project Path="ProductsVat/ProductsVat.csproj" Id="34bc60d3-3404-4a0a-8081-293496096e22" />
+  <Project Path="SwitchApp/SwitchApp.csproj" Id="527b556f-4fca-4950-af1f-047a6c062cf0" />
   <Project Path="TravelingApp/TravelingApp.csproj" Id="a0c0d4d7-794d-4236-93d0-3cf92fba818b" />
 </Solution>
