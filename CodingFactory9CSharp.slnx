@@ -10,7 +10,9 @@
   <Project Path="IfCases/IfCases.csproj" Id="77224a61-2b8d-4a38-9039-d2e46a23fe68" />
   <Project Path="KilometersApp/KilometersApp.csproj" Id="a1ebef17-4458-47ee-a71c-f079dc9a8ccd" />
   <Project Path="LinqArrays/LinqArrays.csproj" Id="691c5910-9a58-45d3-972e-6ed24dc82efe" />
+  <Project Path="MethodChallenges/MethodChallenges.csproj" Id="c0b93ed0-cf55-4ea1-ba3c-4c3a6321c767" />
   <Project Path="MethodsApp/MethodsApp.csproj" Id="8bbc953a-1244-43bc-a256-7703d65acda3" />
+  <Project Path="MoreMethods/MoreMethods.csproj" Id="9dfd513c-eccb-4937-ad11-91fa0a840a7f" />
   <Project Path="NullableApp/NullableApp.csproj" Id="7f77941f-2eb1-4a1d-9e8d-9bae399d8d23" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PalindromeStr/PalindromeStr.csproj" Id="3e528ffb-9d79-42d5-92e0-6e02994c9186" />
