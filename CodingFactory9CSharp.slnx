@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="AccountApp/AccountApp.csproj" Id="ad436637-7b05-4689-9032-16394c8cbe79" />
   <Project Path="ArgsDemo/ArgsDemo.csproj" Id="6a3fbc94-57aa-49c3-9042-c3bb6159b248" />
   <Project Path="ArrayApp/ArrayApp.csproj" Id="05e81b9a-482f-48b2-a07e-d438e0d423ea" />
   <Project Path="CitiesFor/CitiesFor.csproj" Id="29c24a7f-d779-4afc-a0de-47a5e44a00fc" />
