@@ -4,6 +4,8 @@
   <Project Path="ArgsDemo/ArgsDemo.csproj" Id="6a3fbc94-57aa-49c3-9042-c3bb6159b248" />
   <Project Path="ArrayApp/ArrayApp.csproj" Id="05e81b9a-482f-48b2-a07e-d438e0d423ea" />
   <Project Path="CitiesFor/CitiesFor.csproj" Id="29c24a7f-d779-4afc-a0de-47a5e44a00fc" />
+  <Project Path="CollectionsApp/CollectionsApp.csproj" Id="30467aaf-d98f-46e7-b851-3683cf36ce0a" />
+  <Project Path="CollectionsSort/CollectionsSort.csproj" Id="d2eca7b9-360b-4a25-abd4-548f08f0fbbf" />
   <Project Path="CopyApp/CopyApp.csproj" Id="6bab1c83-55d8-4fad-8723-bf8443cbfb8d" />
   <Project Path="DoWhileApp/DoWhileApp.csproj" Id="36dc0ce9-aa4c-4eb6-83de-f1e03f67cfd0" />
   <Project Path="ExpressionBodyMethods/ExpressionBodyMethods.csproj" Id="69699708-293a-4ecb-916e-0a8bdd0f16eb" />
@@ -11,7 +13,9 @@
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="707b6c67-8cba-4b50-bd6a-67198a7373d7" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="IfCases/IfCases.csproj" Id="77224a61-2b8d-4a38-9039-d2e46a23fe68" />
+  <Project Path="InterfacesApp/InterfacesApp.csproj" Id="8e8824d7-464f-4d9b-9346-ff4bfe361368" />
   <Project Path="KilometersApp/KilometersApp.csproj" Id="a1ebef17-4458-47ee-a71c-f079dc9a8ccd" />
+  <Project Path="LinqApp/LinqApp.csproj" Id="9f67869d-ca65-4182-b590-b0cbde8e0f52" />
   <Project Path="LinqArrays/LinqArrays.csproj" Id="691c5910-9a58-45d3-972e-6ed24dc82efe" />
   <Project Path="MethodChallenges/MethodChallenges.csproj" Id="c0b93ed0-cf55-4ea1-ba3c-4c3a6321c767" />
   <Project Path="MethodsApp/MethodsApp.csproj" Id="8bbc953a-1244-43bc-a256-7703d65acda3" />
