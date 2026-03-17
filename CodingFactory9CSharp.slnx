@@ -10,6 +10,7 @@
   <Project Path="DoWhileApp/DoWhileApp.csproj" Id="36dc0ce9-aa4c-4eb6-83de-f1e03f67cfd0" />
   <Project Path="ExpressionBodyMethods/ExpressionBodyMethods.csproj" Id="69699708-293a-4ecb-916e-0a8bdd0f16eb" />
   <Project Path="ExtractCapitals/ExtractCapitals.csproj" Id="397bdba4-6a6a-433f-aebf-88e75cd1d326" />
+  <Project Path="FileManagement/FileManagement.csproj" Id="ec48736c-b6fb-46cd-b221-276490d62795" />
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="707b6c67-8cba-4b50-bd6a-67198a7373d7" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="IfCases/IfCases.csproj" Id="77224a61-2b8d-4a38-9039-d2e46a23fe68" />
