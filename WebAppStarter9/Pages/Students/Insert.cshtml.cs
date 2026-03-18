@@ -20,7 +20,7 @@ namespace WebAppStarter9.Pages.Students
             LoadCites();
         }
 
-        public IActionResult onPost()
+        public IActionResult OnPost()
         {
             if (!ModelState.IsValid)
             {
